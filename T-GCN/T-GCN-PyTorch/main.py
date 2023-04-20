@@ -12,7 +12,8 @@ import utils.logging
 
 DATA_PATHS = {
     "shenzhen": {"feat": "data/sz_speed.csv", "adj": "data/sz_adj.csv"},
-    "losloop": {"feat": "data/los_speed.csv", "adj": "data/los_adj.csv"},
+    "losloop": {"feat": "data/feature_matrix.csv", "adj": "data/grid_adj.csv"},
+
 }
 
 
